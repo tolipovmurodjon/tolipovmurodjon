@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Murodjon
 #### Passionate tech enthusiast committed to making a positive difference in the world!
-![Passionate tech enthusiast committed to making a positive difference in the world!](https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+<img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Passionate tech enthusiast committed to making a positive difference in the world!" width="500" />
 
 I am skilled Android Developer with 2 years of expertise in creating dynamic and user-friendly applications.
 
