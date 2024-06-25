@@ -5,9 +5,9 @@
 I am skilled Android Developer with 2 years of expertise in creating dynamic and user-friendly applications.
 
 ### Skills
-- **Jetpack Compose**
-- **Kotlin**
-- **Java**
+- **🚀 Kotlin**
+- **☕️ Java**
+- **✨ Jetpack Compose**
 
 ### Interests
 - 🔭 Working on **EduAI**
